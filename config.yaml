@@ -1,0 +1,89 @@
+name:           Retired fields
+description:    A temporary plugin holding retired or orphaned metadata fields
+version:        1.0.0
+author_name:    'Endevver, LLC'
+author_link:    http://endevver.com
+id:             RetiredFields
+key:            RetiredFields
+
+unused_meta_fields:
+    blog:
+        - include_system
+        - current_style
+        - sajksdhksdhjk
+    category:
+        - field.featured
+        - field.event_multimedia_category
+    entry:
+        - field.attract_entry_id
+        - field.audioid
+        - field.embed_video_player
+        - field.event3_speaker
+        - field.event5_host
+        - field.event_multimedia_category
+        - field.event_tag
+        - field.favorite_genentech_clothing_item_or_memorabilia
+        - field.featured
+        - field.has_video
+        - field.imagegalleryid
+        - field.parent_event
+        - field.photo_of_the_week
+        - field.poll
+        - field.profile_department
+        - field.related_1
+        - field.related_2
+        - field.related_3
+        - field.related_link1
+        - field.related_link1_text
+        - field.related_link2
+        - field.related_link2_text
+        - field.related_link3
+        - field.related_link3_text
+        - field.related_story1
+        - field.related_story2
+        - field.related_story3
+        - field.sidebar_paragraph_title1
+        - field.sidebar_paragraph_title2
+        - field.sidebar_title
+        - field.submitter
+        - field.time_at_genentech
+        - field.video_of_the_week
+        - field.videoid
+        - field.youtube
+
+obsolete_meta_fields:
+    blog:
+        - theme_mode
+        - theme_meta
+        - template_set_language
+    category:
+        - field.start
+        - field.location_name
+        - field.location_address
+        - field.event_tag
+        - field.event_location
+        - field.end
+        - field.all_day
+    entry:
+        - field.activity_all_day
+        - field.activity_end
+        - field.activity_location
+        - field.activity_main_image
+        - field.activity_start
+        - field.attractentryid
+        - field.attractmode
+        - field.attractmodeimage
+        - field.embed_video
+        - field.eventlocation
+        - field.has_audio
+        - field.host
+        - field.milestoneimage
+        - field.player_height
+        - field.player_width
+        - field.readmore
+        - field.related_1_class
+        - field.related_2_class
+        - field.related_3_class
+        - field.subtitle
+        - field.when
+        - field.where
