@@ -12,20 +12,33 @@ unused_meta_fields:
         - current_style
         - sajksdhksdhjk
     category:
-        - field.featured
+        - field.event_all_day
+        - field.event_end
+        - field.event_featured
+        - field.event_location
+        - field.event_location_address
         - field.event_multimedia_category
+        - field.event_start
+        - field.event_tag
+        - field.featured
+        - field.main_image
     entry:
+        - field.asset_field_test
         - field.attract_entry_id
         - field.audioid
+        - field.completelydifferentname
         - field.embed_video_player
+        - field.end
         - field.event3_speaker
         - field.event5_host
         - field.event_multimedia_category
         - field.event_tag
+        - field.eventdate
         - field.favorite_genentech_clothing_item_or_memorabilia
         - field.featured
         - field.has_video
         - field.imagegalleryid
+        - field.location
         - field.parent_event
         - field.photo_of_the_week
         - field.poll
@@ -39,15 +52,21 @@ unused_meta_fields:
         - field.related_link2_text
         - field.related_link3
         - field.related_link3_text
+        - field.related_links
         - field.related_story1
         - field.related_story2
         - field.related_story3
         - field.sidebar_paragraph_title1
         - field.sidebar_paragraph_title2
         - field.sidebar_title
+        - field.start
+        - field.stats
+        - field.story_type
         - field.submitter
+        - field.test_text_field
         - field.time_at_genentech
         - field.video_of_the_week
+        - field.video_player_size
         - field.videoid
         - field.youtube
 
@@ -57,13 +76,13 @@ obsolete_meta_fields:
         - theme_meta
         - template_set_language
     category:
-        - field.start
-        - field.location_name
-        - field.location_address
-        - field.event_tag
-        - field.event_location
-        - field.end
         - field.all_day
+        - field.end
+        - field.event_location
+        - field.event_tag
+        - field.location_address
+        - field.location_name
+        - field.start
     entry:
         - field.activity_all_day
         - field.activity_end
