@@ -15,7 +15,6 @@ unused_meta_fields:
         - field.event_all_day
         - field.event_end
         - field.event_featured
-        - field.event_location
         - field.event_location_address
         - field.event_multimedia_category
         - field.event_start
