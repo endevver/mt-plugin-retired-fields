@@ -1,6 +1,6 @@
 name:           Retired fields
 description:    A temporary plugin holding retired or orphaned metadata fields
-version:        1.0.0
+version:        1.0.1
 author_name:    'Endevver, LLC'
 author_link:    http://endevver.com
 id:             RetiredFields
@@ -31,7 +31,6 @@ unused_meta_fields:
         - field.event3_speaker
         - field.event5_host
         - field.event_multimedia_category
-        - field.event_tag
         - field.eventdate
         - field.favorite_genentech_clothing_item_or_memorabilia
         - field.featured
@@ -93,7 +92,6 @@ obsolete_meta_fields:
         - field.attractmodeimage
         - field.embed_video
         - field.eventlocation
-        - field.has_audio
         - field.host
         - field.milestoneimage
         - field.player_height
